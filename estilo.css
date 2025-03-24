@@ -1,0 +1,8 @@
+h1 {
+    color: purple;
+}
+
+label, input, button {
+    display: block;
+    margin-bottom: 10px;
+}
